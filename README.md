@@ -1,4 +1,4 @@
-# PokéBonk (Unofficial Native Client)
+# PokéBonk (Unofficial Native Client) DEPRECATED
 
 High-performance native wrappers for **PokéBonk** on **Android**, **Windows**, and **iOS**.
 
